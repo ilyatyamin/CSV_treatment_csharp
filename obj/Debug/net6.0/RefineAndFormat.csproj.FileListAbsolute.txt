@@ -1,0 +1,15 @@
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.csproj.AssemblyReference.cache
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.AssemblyInfoInputs.cache
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.AssemblyInfo.cs
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.csproj.CoreCompileInputs.cache
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/bin/Debug/net6.0/RefineAndFormat
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/bin/Debug/net6.0/RefineAndFormat.deps.json
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/bin/Debug/net6.0/RefineAndFormat.runtimeconfig.json
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/bin/Debug/net6.0/RefineAndFormat.dll
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/bin/Debug/net6.0/RefineAndFormat.pdb
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.dll
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/refint/RefineAndFormat.dll
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.pdb
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/RefineAndFormat.genruntimeconfig.cache
+/Users/mrshrimp.it/RiderProjects/RefineAndFormat/RefineAndFormat/obj/Debug/net6.0/ref/RefineAndFormat.dll
